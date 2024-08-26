@@ -1,5 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Peterson ALEXIS",
+	"description": "This is for practice",
+	"keywords": ["npm", "node", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
